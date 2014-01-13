@@ -1,0 +1,1 @@
+{"run_list":["recipe[git]","recipe[rbenv]","recipe[nginx]","recipe[postgresql]"]}
